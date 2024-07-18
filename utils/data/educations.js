@@ -3,7 +3,7 @@ export const educations = [
     id: 1,
     title: "Bachelor Degree",
     duration: "2019 - 2023",
-    institution: "Government Engineering collage, Rajkot",
+    institution: "Government Engineering college, Rajkot",
   },
   {
     id: 2,

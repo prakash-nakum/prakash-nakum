@@ -9,6 +9,6 @@ export const experiences = [
     id: 2,
     title: "React Trainee",
     company: "Reveation Technologies",
-    duration: "(Feb 2023 - April 2033)"
+    duration: "(Feb 2023 - April 2023)"
   }
 ]
