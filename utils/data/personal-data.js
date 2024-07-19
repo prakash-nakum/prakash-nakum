@@ -1,6 +1,6 @@
 export const personalData = {
   name: "PRAKASH NAKUM",
-  profile: "/profile.jpg",
+  profile: "/profile.png",
   designation: "Frontend Developer",
   description:
     "My name is PRAKASH NAKUM. I am a frontend developer,  building responsive web applications using React.js and Next.js. Skilled in React hooks, context API, Redux, SSR, SSG, and dynamic routing. Proficient in integrating RESTful APIs, implementing authentication, and optimizing performance. A quick learner, adaptable, and passionate about creating high-quality applications in a team environment.",
@@ -14,5 +14,5 @@ export const personalData = {
   stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "nakum2504",
-  resume:"https://drive.google.com/file/d/1oAAMlhVHsvZP1emTfBFctTaQrBjFFbSS/view",
+  resume:"https://drive.google.com/file/d/1owPkc30YSiaoyPAzcaZs5yXUXU6OAgee/view",
 };
