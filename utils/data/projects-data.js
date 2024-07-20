@@ -33,7 +33,7 @@ export const projectsData = [
     tools: ["ReactJS", "NextJS", "NodeJS", "Express", "MongoDB", "Yup"],
     role: "MERN Stack Developer",
     code: "",
-    demo: "",
+    demo: "https://e-commerce-nextjs-rust.vercel.app",
     image: travel,
   },
 
