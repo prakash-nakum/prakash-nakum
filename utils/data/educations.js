@@ -15,6 +15,6 @@ export const educations = [
     id: 3,
     title: "Secondary School Certificate",
     duration: "2016 - 2017",
-    institution: "Shree Eklavya Shaikshnik Sankul",
+    institution: "Shree Eklavya Shaikshnik Sankuls",
   },
 ];
